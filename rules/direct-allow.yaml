@@ -1,5 +1,5 @@
 # Generated automatically by WEPC
-# MetaCubeX commit: cf25ccf5046dd902befc64bff21c0047244796a9
+# MetaCubeX commit: dc60743738b8c81d45b61773d585b97d5c3f428d
 
 payload:
   - "+.00cdn.com"
@@ -1194,6 +1194,7 @@ payload:
   - "+.doubanio.com"
   - "+.doubao-dev.com"
   - "+.doubao.com"
+  - "+.doubaoapps.com"
   - "+.doubaocdn.com"
   - "+.doudou.com"
   - "+.douyin.com"
@@ -2174,6 +2175,12 @@ payload:
   - "+.mmarket.com"
   - "+.mmarket6.com"
   - "+.mmbizurl.cn"
+  - "+.mnc000.mcc460.pub.3gppnetwork.org"
+  - "+.mnc002.mcc460.pub.3gppnetwork.org"
+  - "+.mnc004.mcc460.pub.3gppnetwork.org"
+  - "+.mnc007.mcc460.pub.3gppnetwork.org"
+  - "+.mnc011.mcc460.pub.3gppnetwork.org"
+  - "+.mnc015.mcc460.pub.3gppnetwork.org"
   - "+.mobads-logs.baidu.com"
   - "+.mobads-pre-config.cdn.bcebos.com"
   - "+.mobads.baidu.com"
@@ -2825,6 +2832,7 @@ payload:
   - "+.tendis.net"
   - "+.tengmed.com"
   - "+.tenpay.com"
+  - "+.tenpayglobal.com"
   - "+.test-cignacmb.com"
   - "+.testjrzk.net.cn"
   - "+.testmeet.cn"
@@ -3045,6 +3053,8 @@ payload:
   - "+.weiyun.com"
   - "+.werepository.com.cn"
   - "+.west95582.com"
+  - "+.wesure.cn"
+  - "+.wesure100.com"
   - "+.wetv.vip"
   - "+.wetvinfo.com"
   - "+.weui.io"
