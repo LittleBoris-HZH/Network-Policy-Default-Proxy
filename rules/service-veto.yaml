@@ -1,5 +1,5 @@
 # Generated automatically by WEPC
-# MetaCubeX commit: 1fc5de325d54d3b77d6b86a1db900c5e48ae1003
+# MetaCubeX commit: 7226545410c4dbb3854a5235803a26d86a298072
 
 payload:
   - "+.ae-ad-1.myhuaweicloud.com"
@@ -203,6 +203,7 @@ payload:
   - "+.la-north-2.myhuaweicloud.com"
   - "+.la-north-205.myhuaweicloud.com"
   - "+.la-south-2.myhuaweicloud.com"
+  - "+.levelinfinite.com"
   - "+.me-east-1.myhuaweicloud.com"
   - "+.me-east-205.myhuaweicloud.com"
   - "+.me-east-208.myhuaweicloud.com"
@@ -223,6 +224,7 @@ payload:
   - "+.na-toronto.tencentcos.cn"
   - "+.na-toronto.tencentcos.com"
   - "+.na-toronto.tencentcos.com.cn"
+  - "+.nikke-en.com"
   - "+.overseas.weibo.com"
   - "+.pingan.com.hk"
   - "+.rednote.com"
@@ -244,6 +246,7 @@ payload:
   - "+.speedtestbb.hk.chinamobile.com"
   - "+.tencent.co.id"
   - "+.tencent.com.hk"
+  - "+.tencentgames.com"
   - "+.th.weibo.com"
   - "+.thepoizon.ru"
   - "+.tr-west-1.myhuaweicloud.com"
